@@ -156,7 +156,7 @@ React Context решает проблему props drilling, позволяя в�
 
 и потом в App.js (и Display.js) вы должны написать:
 
-<img src="https://habrastorage.org/webt/7p/aj/8g/7paj8gv_3osxvml7qa8figr6jnk.png" />
+<img src="https://habrastorage.org/webt/3p/sp/f1/3pspf1ab9sgflp2xvfhqn_edcig.png" />
 
 Спасибо, <a href="https://twitter.com/dceddia">Дейв</a>)
 
